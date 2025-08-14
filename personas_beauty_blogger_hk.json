@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "bb001",
+    "年齡段": "26-35",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "收藏香水靈感",
+    "emoji接受度": 0.22,
+    "使用時間段": "週末下午",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "medium",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb002",
+    "年齡段": "36+",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "跟妝學習",
+    "emoji接受度": 0.49,
+    "使用時間段": "午餐時段",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "medium",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#護膚心得",
+      "#乾肌急救",
+      "#保濕面霜"
+    ]
+  },
+  {
+    "id": "bb003",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.74,
+    "使用時間段": "早上7-9點",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "high",
+    "brand_tier": "clean_kbeauty",
+    "hashtag_affinity": [
+      "#油肌適用",
+      "#控油妝前",
+      "#毛孔隱形"
+    ]
+  },
+  {
+    "id": "bb004",
+    "年齡段": "19-25",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.81,
+    "使用時間段": "午餐時段",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "medium",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb005",
+    "年齡段": "26-35",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.46,
+    "使用時間段": "週末下午",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "medium",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb006",
+    "年齡段": "36+",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "香水",
+      "生活方式",
+      "美照打卡"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.41,
+    "使用時間段": "早上7-9點",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "high",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb007",
+    "年齡段": "13-18",
+    "語言習慣": "全英文",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.97,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "medium",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb008",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.61,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "high",
+    "brand_tier": "clean_kbeauty",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb009",
+    "年齡段": "13-18",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "奢華品牌",
+      "新品開箱",
+      "限量系列"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.45,
+    "使用時間段": "早上7-9點",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "medium",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#美甲日常",
+      "#凝膠美甲",
+      "#nailart"
+    ]
+  },
+  {
+    "id": "bb010",
+    "年齡段": "36+",
+    "語言習慣": "全英文",
+    "興趣": [
+      "奢華品牌",
+      "新品開箱",
+      "限量系列"
+    ],
+    "互動動機": "收藏香水靈感",
+    "emoji接受度": 0.28,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "low",
+    "brand_tier": "clean_kbeauty",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb011",
+    "年齡段": "19-25",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.65,
+    "使用時間段": "午餐時段",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "medium",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#香水分享",
+      "#今日香水",
+      "#清新花香"
+    ]
+  },
+  {
+    "id": "bb012",
+    "年齡段": "26-35",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "奢華品牌",
+      "新品開箱",
+      "限量系列"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.44,
+    "使用時間段": "早上7-9點",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "medium",
+    "brand_tier": "clean_kbeauty",
+    "hashtag_affinity": [
+      "#美甲日常",
+      "#凝膠美甲",
+      "#nailart"
+    ]
+  },
+  {
+    "id": "bb013",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.4,
+    "使用時間段": "早上7-9點",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "low",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb014",
+    "年齡段": "13-18",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "開架好物",
+      "CP值",
+      "平價替代"
+    ],
+    "互動動機": "找折扣優惠",
+    "emoji接受度": 0.68,
+    "使用時間段": "早上7-9點",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "low",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#香水分享",
+      "#今日香水",
+      "#清新花香"
+    ]
+  },
+  {
+    "id": "bb015",
+    "年齡段": "36+",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "開架好物",
+      "CP值",
+      "平價替代"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.44,
+    "使用時間段": "週末下午",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "high",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#護膚心得",
+      "#乾肌急救",
+      "#保濕面霜"
+    ]
+  },
+  {
+    "id": "bb016",
+    "年齡段": "19-25",
+    "語言習慣": "全英文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.99,
+    "使用時間段": "早上7-9點",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "香水",
+    "budget_sensitivity": "low",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb017",
+    "年齡段": "26-35",
+    "語言習慣": "全英文",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "找折扣優惠",
+    "emoji接受度": 0.52,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "high",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb018",
+    "年齡段": "19-25",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.68,
+    "使用時間段": "週末下午",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "low",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb019",
+    "年齡段": "26-35",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "韓系妝容",
+      "韓國品牌",
+      "玻璃肌"
+    ],
+    "互動動機": "收藏香水靈感",
+    "emoji接受度": 0.37,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "medium",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb020",
+    "年齡段": "13-18",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "香水",
+      "生活方式",
+      "美照打卡"
+    ],
+    "互動動機": "支持熟悉博主",
+    "emoji接受度": 0.87,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "medium",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb021",
+    "年齡段": "13-18",
+    "語言習慣": "全英文",
+    "興趣": [
+      "香水",
+      "生活方式",
+      "美照打卡"
+    ],
+    "互動動機": "跟妝學習",
+    "emoji接受度": 0.49,
+    "使用時間段": "週末下午",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "medium",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#油肌適用",
+      "#控油妝前",
+      "#毛孔隱形"
+    ]
+  },
+  {
+    "id": "bb022",
+    "年齡段": "19-25",
+    "語言習慣": "全英文",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.66,
+    "使用時間段": "週末下午",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "low",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb023",
+    "年齡段": "19-25",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美甲",
+      "設計",
+      "流行趨勢"
+    ],
+    "互動動機": "支持熟悉博主",
+    "emoji接受度": 0.9,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "low",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb024",
+    "年齡段": "26-35",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.59,
+    "使用時間段": "週末下午",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "high",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb025",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "開架好物",
+      "CP值",
+      "平價替代"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.87,
+    "使用時間段": "午餐時段",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "low",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb026",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "跟妝學習",
+    "emoji接受度": 0.86,
+    "使用時間段": "午餐時段",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "low",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb027",
+    "年齡段": "36+",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.66,
+    "使用時間段": "午餐時段",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "low",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb028",
+    "年齡段": "36+",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "支持熟悉博主",
+    "emoji接受度": 0.24,
+    "使用時間段": "週末下午",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "high",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#護膚心得",
+      "#乾肌急救",
+      "#保濕面霜"
+    ]
+  },
+  {
+    "id": "bb029",
+    "年齡段": "26-35",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.4,
+    "使用時間段": "午餐時段",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "medium",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb030",
+    "年齡段": "19-25",
+    "語言習慣": "全英文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "找折扣優惠",
+    "emoji接受度": 0.59,
+    "使用時間段": "午餐時段",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "髮型",
+    "budget_sensitivity": "high",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#美甲日常",
+      "#凝膠美甲",
+      "#nailart"
+    ]
+  },
+  {
+    "id": "bb031",
+    "年齡段": "26-35",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "開架好物",
+      "CP值",
+      "平價替代"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.46,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "low",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#美甲日常",
+      "#凝膠美甲",
+      "#nailart"
+    ]
+  },
+  {
+    "id": "bb032",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美甲",
+      "設計",
+      "流行趨勢"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.89,
+    "使用時間段": "早上7-9點",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "high",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#油肌適用",
+      "#控油妝前",
+      "#毛孔隱形"
+    ]
+  },
+  {
+    "id": "bb033",
+    "年齡段": "26-35",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "美甲",
+      "設計",
+      "流行趨勢"
+    ],
+    "互動動機": "跟妝學習",
+    "emoji接受度": 0.6,
+    "使用時間段": "午餐時段",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "low",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#護膚心得",
+      "#乾肌急救",
+      "#保濕面霜"
+    ]
+  },
+  {
+    "id": "bb034",
+    "年齡段": "36+",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "改善膚況",
+    "emoji接受度": 0.63,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "medium",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb035",
+    "年齡段": "13-18",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.98,
+    "使用時間段": "週末下午",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "medium",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb036",
+    "年齡段": "13-18",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "日系妝容",
+      "清透感",
+      "自然妝"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.56,
+    "使用時間段": "午餐時段",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "low",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb037",
+    "年齡段": "26-35",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "尋找趨勢妝容",
+    "emoji接受度": 0.25,
+    "使用時間段": "早上7-9點",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "high",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb038",
+    "年齡段": "36+",
+    "語言習慣": "全英文",
+    "興趣": [
+      "開架好物",
+      "CP值",
+      "平價替代"
+    ],
+    "互動動機": "收藏香水靈感",
+    "emoji接受度": 0.62,
+    "使用時間段": "週末下午",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "色素沉澱",
+      "暗沉"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "high",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb039",
+    "年齡段": "19-25",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "奢華品牌",
+      "新品開箱",
+      "限量系列"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.43,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "教學",
+    "budget_sensitivity": "high",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#香水分享",
+      "#今日香水",
+      "#清新花香"
+    ]
+  },
+  {
+    "id": "bb040",
+    "年齡段": "36+",
+    "語言習慣": "全英文",
+    "興趣": [
+      "香水",
+      "生活方式",
+      "美照打卡"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.33,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "low",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#韓系妝容",
+      "#kbeauty",
+      "#玻璃肌"
+    ]
+  },
+  {
+    "id": "bb041",
+    "年齡段": "26-35",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "找折扣優惠",
+    "emoji接受度": 0.29,
+    "使用時間段": "下班後/晚上9點後",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "medium",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#香水分享",
+      "#今日香水",
+      "#清新花香"
+    ]
+  },
+  {
+    "id": "bb042",
+    "年齡段": "36+",
+    "語言習慣": "繁體中文",
+    "興趣": [
+      "美妝",
+      "護膚",
+      "試色"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.33,
+    "使用時間段": "週末下午",
+    "skin_type": "混合肌",
+    "skin_concerns": [
+      "泛紅",
+      "敏感"
+    ],
+    "content_pref": "成分科普",
+    "budget_sensitivity": "low",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb043",
+    "年齡段": "19-25",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.79,
+    "使用時間段": "早上7-9點",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "開架評測",
+    "budget_sensitivity": "high",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb044",
+    "年齡段": "36+",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "奢華品牌",
+      "新品開箱",
+      "限量系列"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.65,
+    "使用時間段": "週末下午",
+    "skin_type": "油肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "開箱",
+    "budget_sensitivity": "high",
+    "brand_tier": "drugstore",
+    "hashtag_affinity": [
+      "#日系妝容",
+      "#jbeauty",
+      "#自然裸妝"
+    ]
+  },
+  {
+    "id": "bb045",
+    "年齡段": "13-18",
+    "語言習慣": "全英文",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "支持熟悉博主",
+    "emoji接受度": 0.9,
+    "使用時間段": "午餐時段",
+    "skin_type": "乾肌",
+    "skin_concerns": [
+      "痘痘",
+      "出油"
+    ],
+    "content_pref": "教學",
+    "budget_sensitivity": "high",
+    "brand_tier": "mid",
+    "hashtag_affinity": [
+      "#髮型變變變",
+      "#捲髮造型",
+      "#護髮"
+    ]
+  },
+  {
+    "id": "bb046",
+    "年齡段": "13-18",
+    "語言習慣": "全英文",
+    "興趣": [
+      "韓系妝容",
+      "韓國品牌",
+      "玻璃肌"
+    ],
+    "互動動機": "尋找好用平替",
+    "emoji接受度": 0.85,
+    "使用時間段": "早上7-9點",
+    "skin_type": "中性肌",
+    "skin_concerns": [
+      "毛孔",
+      "出油"
+    ],
+    "content_pref": "美甲",
+    "budget_sensitivity": "high",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#香港美妝",
+      "#試色",
+      "#開架好物"
+    ]
+  },
+  {
+    "id": "bb047",
+    "年齡段": "13-18",
+    "語言習慣": "全英文",
+    "興趣": [
+      "髮型",
+      "造型",
+      "工具評測"
+    ],
+    "互動動機": "收藏香水靈感",
+    "emoji接受度": 0.84,
+    "使用時間段": "早上7-9點",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "試色",
+    "budget_sensitivity": "medium",
+    "brand_tier": "luxury",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  },
+  {
+    "id": "bb048",
+    "年齡段": "36+",
+    "語言習慣": "中英夾雜",
+    "興趣": [
+      "護膚",
+      "成分黨",
+      "敏感肌護理"
+    ],
+    "互動動機": "買前看評測",
+    "emoji接受度": 0.37,
+    "使用時間段": "早上7-9點",
+    "skin_type": "敏感肌",
+    "skin_concerns": [
+      "乾燥",
+      "細紋"
+    ],
+    "content_pref": "教學",
+    "budget_sensitivity": "high",
+    "brand_tier": "jbeauty",
+    "hashtag_affinity": [
+      "#成分黨",
+      "#Niacinamide",
+      "#Retinol"
+    ]
+  }
+]
